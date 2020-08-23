@@ -1,0 +1,27 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.gray-background {
+    background: url(/img/bg/login_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    -webkit-filter: opacity(.65);
+    filter: opacity(.65);
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    background-color: #efefef;
+    width: calc(50% - 20px);
+    height: 100vh;
+    visibility: visible;
+}
