@@ -1,8 +1,21 @@
 ## Match Wise Hub
 Aplicação desenvolvida como objeto de avaliação do processo seletivo da Keep IT
+
 ## Proposta
 1° Desenhe uma solução técnica para fazer MATCH de candidatos x vagas da Wisehub. (https://wisehub.com.br/)
 2° Apresente o diagrama de solução, indicando tecnologias, frameworks e a lógica de programação."
+
+## Para Executar o Projeto
+
+- Realize o clone do repositório
+
+- Execute o comando para criar as tabelas e inserir alguns dados
+    php artisan migrate --seed
+
+- Execute o comando 
+    php artisan serve
+
+- Acessa aplicação em: http://localhost:8000
 
 ## Arquitetura
 
