@@ -9,11 +9,9 @@ Aplicação desenvolvida como objeto de avaliação do processo seletivo da Keep
 
 - Realize o clone do repositório
 
-- Execute o comando para criar as tabelas e inserir alguns dados
-    php artisan migrate --seed
+- Execute o comando para criar as tabelas e inserir alguns dados -  $ php artisan migrate --seed
 
-- Execute o comando 
-    php artisan serve
+- Execute o comando - $ php artisan serve
 
 - Acessa aplicação em: http://localhost:8000
 
