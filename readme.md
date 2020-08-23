@@ -37,8 +37,8 @@ Aplicação desenvolvida como objeto de avaliação do processo seletivo da Keep
     <img src="/resources/assets/docs/devVagasEmpresa.png" alt="alt text" height="400px">
 
     * Tela de Cadastro de uma Vaga 
-    <img src="/resources/assets/docs/devVagasEmpresa.png" alt="alt text" height="400px">
+    <img src="/resources/assets/docs/criarVaga.png" alt="alt text" height="400px">
 
     * Tela de Cadastro de Usuário
-    <img src="/resources/assets/docs/devVagasEmpresa.png" alt="alt text" height="400px">
+    <img src="/resources/assets/docs/cadastro.png" alt="alt text" height="400px">
 
