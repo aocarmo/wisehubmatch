@@ -9,6 +9,8 @@ Aplicação desenvolvida como objeto de avaliação do processo seletivo da Keep
 
 - Realize o clone do repositório
 
+- Insira as configurações do seu banco de dados no arquivo (.ENV)
+
 - Execute o comando para criar as tabelas e inserir alguns dados -  $ php artisan migrate --seed
 
 - Execute o comando - $ php artisan serve
